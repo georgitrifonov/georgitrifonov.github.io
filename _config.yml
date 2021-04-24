@@ -9,7 +9,7 @@ version: 2
 name: Georgi Trifonov
 title: Senior System Administrator
 email: georgi.itrifonov@gmail.com
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Monitoring system
+        link: ScaleFocus
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,9 +68,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Tasks/Achievements
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
+      - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
+      - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,10 +105,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      Tasks/Achievements
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
+      - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
+      - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
