@@ -10,7 +10,7 @@ name: Georgi Trifonov
 title: Senior System Administrator
 email: georgi.itrifonov@gmail.com
 # email_title: Email (Email title override)
-Location: Plovdiv, Bulgaria
+# phone:
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -68,9 +68,8 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           *Achievements/Tasks*
-            - Maintain and administer of Linux/Windows critical hosting environment
-            - Building, configuring, patching, upgrading, and troubleshooting physical and virtual Linux servers (rack mounts and VMs)
-            - Provide automated scripted solutions for both Linux and Windows environments where appropriate
+            - Deploying, optimizing, and maintaining critical Linux/Windows environment to ensure maximum uptime, security and efficient operation
+            - Develop and maintain automation solutions to support and simplify administration tasks
             - Maintain a high level of information security to the internal systems and infrastructure
             - Leаd and mentored less experienced colleagues and helped them grow
 
