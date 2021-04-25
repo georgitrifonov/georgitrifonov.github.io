@@ -69,12 +69,10 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Tasks/Achievements
-    content: | # this will include new lines to allow paragraphs
-      Tasks/Achievements
-
-      - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
-      - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
-      - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx§
+        description: | # this will include new lines to allow paragraphs
+        - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
+        - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
+        - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,7 +106,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Tasks/Achievements
-
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
       - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
       - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx
