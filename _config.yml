@@ -74,7 +74,7 @@ content:
 
       - Project Summary: Web-based solution that allows each member of the IT Ops team to safely perform automated operational tasks that were previously performed manually
       - Responsibilities: Create a custom UI for rundeck jobs; Create a Linux based VMs / LEMP stack; Add Linux machines into AD domain; Create AD users; Create/Delete DNS and Reverse proxy records
-      - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx
+      - Tech Stack: Ansible, Bash, Powershell, Proxmox, Cloud-init, Rundeck, 1password, Active Directory, Nginx§
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
