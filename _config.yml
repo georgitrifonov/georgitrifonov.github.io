@@ -101,7 +101,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: <mark>Linux</mark> <mark>Bash</mark> <mark>Networking</mark> <mark>Security</mark> <mark>Ansible</mark> <br /> <mark>Azure</mark> <mark>GCP</mark> <mark>Prometheus</mark> <mark>Grafana</mark> <mark>Telegraf</mark> <br /> <mark>Git</mark> <mark>Gitlab CI/CD</mark> <mark>Jenkins</mark> <mark>NGINX</mark> <mark>Influxdb</mark> <mark>MySQL</mark> <br /> <mark>Docker</mark> <mark>Proxmox</mark> <mark>Hyper-V</mark> <mark>Active Directory</mark>
+        sub_title: <mark>Linux</mark> <mark>Bash</mark> <mark>Networking</mark> <mark>Security</mark> <mark>Ansible</mark> <br /> <mark>Azure</mark> <mark>GCP</mark> <mark>Prometheus</mark> <mark>Grafana</mark> <mark>Telegraf</mark> <br /> <mark>Git</mark> <mark>Gitlab CI/CD</mark> <mark>Jenkins</mark> <mark>NGINX</mark> <mark>Influxdb</mark> <mark>MySQL</mark> <br /> <mark>Docker</mark> <mark>Proxmox</mark> <mark>Hyper-V</mark> <mark>WordPress</mark> <mark>Active Directory</mark>
 
   - title: Projects
     layout: list
