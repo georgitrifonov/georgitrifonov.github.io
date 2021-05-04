@@ -81,7 +81,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           *Achievements/Tasks*
-            - Serving as the first point of contact for customers seeking technical assistance over the phone or email
+            - Serving as the first point of contact for customers seeking technical assistance over the phone
             - Performing remote troubleshooting through diagnostic techniques and pertinent questions
             - Determining the best solution based on the issue and details provided by customers
 
@@ -93,9 +93,9 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           *Achievements/Tasks*
-            - Serving as the first point of contact for customers seeking technical assistance over the phone or email
-            - Performing remote troubleshooting through diagnostic techniques and pertinent questions
-            - Determining the best solution based on the issue and details provided by customers
+            - Serving as the first point of contact for customers seeking technical assistance over the phone
+            - Diagnosing and repairing faults.
+            - Resolving network issues.
 
   - title: Skills
     layout: list
